@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /listings/
+Allow: /job-posts/
+Allow: /explore
+Allow: /users/
+Disallow: /admin
+Disallow: /profile
+Disallow: /saved
+Disallow: /chat/
+Disallow: /notifications
+Disallow: /cv/
+Disallow: /link-preview
+Disallow: /messages
+
+Sitemap: https://www.islendik.com/sitemap.xml
